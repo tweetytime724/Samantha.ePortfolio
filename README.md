@@ -55,5 +55,7 @@ This link will take you to YouTube for an Informal Code Review that will explain
 
 https://youtu.be/p9U3vIqFfx8 
 
-## Link to the Artifact: Avising Assistance
+## Link to the Artifact: Advising Assistance
+[Download Artifact](https://github.com/tweetytime724/tweetytime724.github.io/blob/main/Artifact___Advising%20Assistance%20Program%20.zip)
+
 
