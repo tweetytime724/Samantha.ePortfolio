@@ -15,7 +15,9 @@ SQL and the lightweight version, SQLite, are reliable databases. SQLite is what 
 Security for all programs is very important; we need to secure all programs from hackers. Hashing passwords is one way to do that. SHA-256, PBKDF2, BCrypt are examples of some hashing functions in Java. SHA-256 was what we used when learning about security and hashing, however, it is not recommended for actual use due to the quick speed allowing hackers brute-force passwords. PBKDF2, password-based key derivation function 2, is similar to SHA-256 but is more secure with using randomized salts and high iteration counts.
 
 Software engineering and design is by far the most fun; planning out what the project is going to look like and writing pseudocode to help ensure we do not forget something is just the start of the fun. Seeing the program come together and working as it should be is the best part of software engineering. I have experience writing Python; however, C++ and Java are my strong languages. Object-Oriented Programming (OOP) is the best option when writing programs, in my opinion, it would work faster and is much more organized. Most of the programs I have worked on I used OOP; the only programs I did not use OOP were the two games I created in Unreal Engine. While creating the games, I was learning the programming by the blueprints instead of the code. Engineering a game in Unreal with blueprints is different, it works the similar to writing code, but it is easier to reference different classes. (I really enjoyed making games in Unreal.)
+
 ###### Portfolio Summary
+
 I had created an Android Application for a program that I worked on in April of 2024 in my Computer Science 300 – DSA: Analysis and Design class. I transferred the program from C++ to Java, added a login page that allows for adding a user that hashes the password for added security, and added a database to hold the data to be recalled later. The hashing algorithm I used was PBKDF2 to hash the passwords and I used the SQLite for the databases I created. 
 
 Due to the way I designed my enhancements to work with each other I have specific classes that were created to work with each other. There are also some methods not in-use due to the addition of the database. However, I am ensuring that all classes are being used. Listed below are the classes that were added for each enhancement. 
@@ -48,7 +50,10 @@ o	Users.java - This class contains a database.
 
 o	CourseDatabase.java - This is the Database class that also has the methods to use the database. 
 
+## Informal Code Review
+This link will take you to YouTube for an Informal Code Review that will explain what artifact I had decided to enhance and how I planned to enhance it.
 
+https://youtu.be/p9U3vIqFfx8 
 
-Informal Code Review Found Here https://youtu.be/p9U3vIqFfx8
-  This will show what I started with and what I am going to do to improve on this code to make it more my own creation. 
+## Link to the Artifact: Avising Assistance
+
