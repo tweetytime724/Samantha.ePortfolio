@@ -53,7 +53,7 @@ o	CourseDatabase.java - This is the Database class that also has the methods to 
 ## Informal Code Review
 This link will take you to YouTube for an Informal Code Review that will explain what artifact I had decided to enhance and how I planned to enhance it.
 
-https://youtu.be/p9U3vIqFfx8 
+[Informal Code Review](https://youtu.be/p9U3vIqFfx8) 
 
 ## Link to the Artifact: Advising Assistance
 [Download Artifact](https://github.com/tweetytime724/tweetytime724.github.io/blob/main/Artifact___Advising%20Assistance%20Program%20.zip)
